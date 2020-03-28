@@ -3,7 +3,6 @@ E:\CppProjects\MunchkinCounter\MunchkinCounter\MunchkinCounter\bin\Debug\netstan
 E:\CppProjects\MunchkinCounter\MunchkinCounter\MunchkinCounter\bin\Debug\netstandard2.0\ref\MunchkinCounter.dll
 E:\CppProjects\MunchkinCounter\MunchkinCounter\MunchkinCounter\bin\Debug\netstandard2.0\MunchkinCounter.pdb
 E:\CppProjects\MunchkinCounter\MunchkinCounter\MunchkinCounter\obj\Debug\netstandard2.0\MunchkinCounter.csprojAssemblyReference.cache
-E:\CppProjects\MunchkinCounter\MunchkinCounter\MunchkinCounter\obj\Debug\netstandard2.0\App.xaml.g.cs
 E:\CppProjects\MunchkinCounter\MunchkinCounter\MunchkinCounter\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 E:\CppProjects\MunchkinCounter\MunchkinCounter\MunchkinCounter\obj\Debug\netstandard2.0\MunchkinCounter.csproj.CoreCompileInputs.cache
 E:\CppProjects\MunchkinCounter\MunchkinCounter\MunchkinCounter\obj\Debug\netstandard2.0\MunchkinCounter.AssemblyInfoInputs.cache
@@ -12,3 +11,4 @@ E:\CppProjects\MunchkinCounter\MunchkinCounter\MunchkinCounter\obj\Debug\netstan
 E:\CppProjects\MunchkinCounter\MunchkinCounter\MunchkinCounter\obj\Debug\netstandard2.0\MunchkinCounter.dll
 E:\CppProjects\MunchkinCounter\MunchkinCounter\MunchkinCounter\obj\Debug\netstandard2.0\ref\MunchkinCounter.dll
 E:\CppProjects\MunchkinCounter\MunchkinCounter\MunchkinCounter\obj\Debug\netstandard2.0\MunchkinCounter.pdb
+E:\CppProjects\MunchkinCounter\MunchkinCounter\MunchkinCounter\obj\Debug\netstandard2.0\Main\App.xaml.g.cs

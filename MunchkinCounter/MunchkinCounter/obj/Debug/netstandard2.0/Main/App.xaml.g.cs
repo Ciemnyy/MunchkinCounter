@@ -8,12 +8,12 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("MunchkinCounter.App.xaml", "App.xaml", typeof(global::MunchkinCounter.App))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("MunchkinCounter.Main.App.xaml", "Main/App.xaml", typeof(global::MunchkinCounter.App))]
 
 namespace MunchkinCounter {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Main\\App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

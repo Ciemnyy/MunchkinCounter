@@ -7,7 +7,10 @@
              x:Class="MunchkinCounter.MainPage">
 
     <StackLayout>
-		<Button Text="Hello World!" />
+		<Button Text="New Game" Clicked="New_Game_Clicked"/>
+		<ListView x:Name="playerList" ItemsSource="{Binding .}" ItemTapped="PlayerList_ItemTapped"/>
+		<Button Text="Add Player" Clicked="Add_Player_Clicked"/>
+		<Button x:Name="buttonRemove" Text="Remove Player" Clicked="Remove_Player_Clicked" IsEnabled="False"/>
 	</StackLayout>
 
 </ContentPage>
